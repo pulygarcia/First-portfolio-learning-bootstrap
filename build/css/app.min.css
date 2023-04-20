@@ -1123,3 +1123,13 @@ legend + * {
     margin-top: 12rem;
   }
 }
+
+.icono{
+  padding: .5rem;
+  border: 1px solid #29C7A3;
+  border-radius: 50%;
+  animation-name: salto;
+  animation-duration: 2s;
+  animation-delay: 0s;
+  animation-iteration-count: infinite;
+}
